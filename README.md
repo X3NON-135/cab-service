@@ -35,6 +35,6 @@
 > private static final String JDBC_DRIVER = "JDBC_DRIVER";
 
 - Use init_db.sql code in Workbench to work with project
-- Install Tomcat (use at least 9.0.50 version or higher)
+- Install Tomcat (use at least 9.0.50 version or higher) [Install](https://tomcat.apache.org/download-90.cgi)
 - Configure Tomcat in "Add configurations" 
 - Run project
