@@ -4,7 +4,7 @@
 
 ## Project description 📄
 * Small pet-project, which represents small web-app of taxi service  
-* Simple interface and not big functionality, but it works
+* Provides to user an opportunity to add appropriate drivers to each car. View current state of relations and other functionality to work with taxi-service
 
 ## Project structure 🚥
 **Based on N-tier architecture:**
@@ -17,7 +17,7 @@
 2. Maven
 3. Oracle MySQL 
 4. JDBC
-5. Tomcat (9.0.65)
+5. Tomcat (9.0.50)
 6. HTML+CSS
 7. JSP+JSTL
 
@@ -34,7 +34,7 @@
 > 
 > private static final String JDBC_DRIVER = "JDBC_DRIVER";
 
-- Use init_db.sql code in Workbench to work with project
-- Install Tomcat (use at least 9.0.50 version or higher)
+- Execute init_db.sql code to initialize database
+- Install Tomcat (required tomcat is 9.0.50) [Install](https://tomcat.apache.org/download-90.cgi)
 - Configure Tomcat in "Add configurations" 
 - Run project
