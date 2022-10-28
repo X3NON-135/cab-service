@@ -1,6 +1,6 @@
 <img src="https://media2.giphy.com/media/6261y9yyIsd2dXVBdS/giphy.gif?cid=ecf05e47qxu7zwqr76xmdey5py3zew3sy9fgy142go1wtm1w&rid=giphy.gif&ct=g" align="top" />
 
-# Welcome to taxi service 
+# Welcome to Cab Service
 
 ## Project description 📄
 * Pet-project, which represents small web-app of taxi service  
